@@ -1,0 +1,6 @@
+{
+  "name": "ORBITAL X",
+  "description": "AI-Powered Microgravity Combustion Intelligence & Spacecraft Fire Safety Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

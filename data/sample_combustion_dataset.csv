@@ -1,0 +1,5 @@
+dataset_id,experiment_name,gravity_condition,gravity_g,fuel_type,oxygen_pct,pressure_kpa,airflow_cm_s,fuel_temp_k,flame_spread_mm_s,ignition_delay_s,extinction_o2_pct,heat_release_kw_m2,peak_flame_temp_k,experimental_condition,ignition_outcome,source_reference,recorded_year
+OFFLINE-SAMPLE-01,SoFIE-Demo,Microgravity (~0g),0.00001,Cast PMMA,23.5,82.0,12.0,395,5.10,2.80,16.5,108.0,1920,Offline sample test run at 23.5% O2 and 82 kPa,Sustained Flame,Offline Demonstration Sample CSV,2024
+OFFLINE-SAMPLE-02,SoFIE-Demo,Microgravity (~0g),0.00001,Cotton-Fiberglass (SIBAL),21.0,101.3,14.0,320,8.75,2.05,15.8,104.0,1795,Offline sample thin textile concurrent flow,Sustained Flame,Offline Demonstration Sample CSV,2024
+OFFLINE-SAMPLE-03,FLEX-Demo,Microgravity (~0g),0.00001,n-Heptane Droplet,19.5,95.0,0.0,298,1.15,0.72,14.8,27.4,1580,Offline sample quiescent droplet cool-flame check,Cool Flame,Offline Demonstration Sample CSV,2024
+OFFLINE-SAMPLE-04,Saffire-Demo,Earth Gravity (1g),1.0,Cast PMMA,23.5,82.0,12.0,395,2.95,4.10,17.4,86.0,1980,Offline sample 1g reference comparison run,Sustained Flame,Offline Demonstration Sample CSV,2024
